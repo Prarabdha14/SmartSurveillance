@@ -1,3 +1,7 @@
+
+<img width="1292" height="792" alt="image" src="https://github.com/user-attachments/assets/17b3732c-7728-4007-b834-6e910ecf0608" />
+
+
 # Intelligent CCTV Video Analytics Pipeline
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
