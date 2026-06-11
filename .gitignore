@@ -1,0 +1,31 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual Environment
+venv/
+ENV/
+env/
+.env
+
+# Large Files & Model Weights
+*.pt
+*.onnx
+*.engine
+
+# Datasets and Video Files
+video/
+videos/
+*.mp4
+*.avi
+*.mkv
+
+# OS Specific Files
+.DS_Store
+Thumbs.db
+
+# IDE Settings
+.vscode/
+.idea/
